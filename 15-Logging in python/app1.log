@@ -1,4 +1,5 @@
-2025-02-28 23:47:24-ArithmaticApp-DEBUG-adding 10 & 5 = 15
-2025-02-28 23:47:24-ArithmaticApp-DEBUG-Substracting 10 & 5 = 5
-2025-02-28 23:47:24-ArithmaticApp-DEBUG-Multiplying 10 & 5 = 50
-2025-02-28 23:47:24-ArithmaticApp-DEBUG-Dividing 10 & 5 = 2.0
+2025-03-01 15:45:33,342 -my_logger - DEBUG- This is a debug message
+2025-03-01 15:45:33,345 -my_logger - INFO- This is an info message
+2025-03-01 15:45:33,347 -my_logger - WARNING- This is a warning message
+2025-03-01 15:45:33,351 -my_logger - ERROR- This is an error message
+2025-03-01 15:45:33,352 -my_logger - CRITICAL- This is a critical message
